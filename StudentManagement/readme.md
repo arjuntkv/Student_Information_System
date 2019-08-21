@@ -1,5 +1,7 @@
-﻿# Student Management System - Android
- 
+# Student Management System - JAVA
+
+This project is developed using Java frames and mysql database.
+
 ## Installation
 
 Clone or download the repository.
